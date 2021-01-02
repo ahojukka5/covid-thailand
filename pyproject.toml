@@ -8,6 +8,11 @@ license = "MIT"
 [tool.poetry.dependencies]
 python = "^3.9"
 jupyter = "^1.0.0"
+pandas = "^1.2.0"
+matplotlib = "^3.3.3"
+seaborn = "^0.11.1"
+numpy = "^1.19.4"
+scipy = "^1.6.0"
 
 [tool.poetry.dev-dependencies]
 
